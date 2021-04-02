@@ -3,4 +3,4 @@
 	url = https://github.com/sickill/vim-monokai.git
 [submodule "emacs/themes/monokai-emacs"]
 	path = emacs/themes/monokai-emacs
-	url = https://github.com/sickill/vim-monokai.git
+	url = https://github.com/oneKelvinSmith/monokai-emacs.git
